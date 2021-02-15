@@ -4,8 +4,8 @@ This project exposes webservices to retreive and update product details and pric
 It uses Mongo DB as datastore. 
 
 
-1. Get api to fetch product details 
-URL : http://localhost:8080/myretail/1.0/products/{productId} 
+1. Get api to fetch product details
+URL : http://localhost:8080/myretail/1.0/products/{productId}
 Response : {
     "id": <productid>,
     "name": <product_name>,
